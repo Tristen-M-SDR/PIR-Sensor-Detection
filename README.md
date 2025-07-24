@@ -1,7 +1,7 @@
 # PIR-Sensor-Detection
 The following repository allows for simple detection using PIR Sensor.
 
-## Start off by plugging in the PIR Sensor to the Raspberry Pi to the following pins:
+## Start off by connecting the PIR Sensor to the Raspberry Pi to the following pins:
 
 | Name | Pin # | Pin name   |
 |:------:|:-------:|:------------:|
